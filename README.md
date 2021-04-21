@@ -1,3 +1,3 @@
 # Sparks_foundation
-IOT and Computer Vision-
-Task2 Color Identification
+IOT and Computer Vision -
+Task 2 Color Identification
